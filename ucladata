@@ -61,11 +61,3 @@ table(ps1,ucla_test$admit)
 ## SVM(polynomial)
 ps2 = predict(s2, newdata = ucla_test) # 예측결과 
 table(ps2,ucla_test$admit)
-
-
-confusionMatrix(pr,ucla_test$admit)
-confusionMatrix(pf1,ucla_test$admit)
-confusionMatrix(pf2,ucla_test$admit)
-confusionMatrix(k,ucla_test$admit)
-confusionMatrix(ps1,ucla_test$admit)
-confusionMatrix(ps2,ucla_test$admit)
