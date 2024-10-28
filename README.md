@@ -1,6 +1,6 @@
 # Data Analysis
 
-UCLA 데이터 예측 프로젝트
+UCLA 데이터 예측 프로젝트  
 ; UCLA 데이터에 여러가지 분류모델을 적용 + 예측
 
 적용 모델     
@@ -21,20 +21,20 @@ UCLA 데이터 예측 프로젝트
 4. 테스트데이터로 예측하고, 예측결과를 혼동행렬로 출력     
 5. 혼동행렬로 부터 정확도를 계산     
 
-# Projects
-**UCLA Admission Prediction**
-• Developed a predictive model to determine admission chances using the UCLA admission dataset.
-• Applied multiple classification algorithms including:
-  • Decision Trees
-  • Random Forest (with 50 and 1000 trees)
-  • k-NN
-  • SVM (Radial Basis and Polynomial)
-• Split the dataset into training (60%) and testing (40%) sets for model evaluation.
-• Generated confusion matrices to assess the performance of each model and calculated accuracy metrics from the results.
-• Documented the entire process, including data preparation, model training, prediction, and performance evaluation.
-
-# Skills
-• Programming Languages: R, Python
-• Libraries: Rpart, Caret, RandomForest, Class, E1071
-• Machine Learning: Decision Trees, Random Forest, k-NN, SVM
-• Data Analysis and Visualization
+# Projects  
+**UCLA Admission Prediction**  
+• Developed a predictive model to determine admission chances using the UCLA admission dataset.  
+• Applied multiple classification algorithms including:  
+  • Decision Trees  
+  • Random Forest (with 50 and 1000 trees)  
+  • k-NN  
+  • SVM (Radial Basis and Polynomial)  
+• Split the dataset into training (60%) and testing (40%) sets for model evaluation.  
+• Generated confusion matrices to assess the performance of each model and calculated accuracy metrics from the results.  
+• Documented the entire process, including data preparation, model training, prediction, and performance evaluation.  
+  
+# Skills    
+• Programming Languages: R, Python  
+• Libraries: Rpart, Caret, RandomForest, Class, E1071  
+• Machine Learning: Decision Trees, Random Forest, k-NN, SVM  
+• Data Analysis and Visualization  
